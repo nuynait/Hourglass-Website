@@ -1,0 +1,23 @@
+body {
+	background-color: #F5E9BE;
+	height: 1500px;
+}
+
+div.navbarBackground {
+	position: relative;
+	background-color: #F6E6AC; 
+	height: 247px;
+	z-index: 950;
+}
+
+div.topImg {
+	position:absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	content: url('../img/top-background-img.jpg');
+	height: 789px;
+	z-index: 1000;
+	opacity: 0.2;
+}
+
