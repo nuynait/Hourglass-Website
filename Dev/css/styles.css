@@ -69,9 +69,154 @@ div.tranglediv {
     vertical-align:top;
 }
 
+div.allinone {
+	width: 502px;
+	height: 619px;
+	position: relative;
+	/* above the nav bar */
+	z-index: 990;
+	margin-top: -148px;
+	/* center the block */
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+div.text-allinone {
+	position: absolute;
+	left: 154px;
+	top: 102px;
+	font-family: "Courier";
+	font-size: 32px;
+	font-weight: bold;
+	color: #174C4F;
+	width: 194px;
+	height: 38px;
+}
+
+div.text-icontext-allinone {
+	font-family: "Helvetica";
+	font-weight: lighter;
+	text-align: center;
+	color: #174C4F;
+	font-size: 16px;
+}
+
+div.icon-todolist {
+	content: url('../img/Todo List Icon.png');
+	position: absolute;
+	left: 114px;
+	top: 216px;
+	width: 48px;
+	height: 48px;
+}
+
+div.text-todolist {
+	position: absolute;
+	top: 277px;
+	left: 109px;
+	width: 53px;
+	height: 38px;
+}
+
+div.icon-taskplanning {
+	content: url('../img/Task Planning Icon.png');
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 343px;
+	top: 220px;
+}
+
+div.text-taskplanning {
+	position: absolute;
+	top: 276px;
+	left: 329px;
+	width: 78px;
+	height: 38px;
+}
+
+div.icon-pomodoro {
+	content: url('../img/Pomodoro Icon.png');
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 113px;
+	top: 362px;
+}
+
+
+div.text-pomodoro {
+	position: absolute;
+	top: 422px;
+	left: 97px;
+	width: 77px;
+	height: 19px;
+}
+
+div.icon-projectmanagement {
+	content: url('../img/Project Management Icon.png');
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 343px;
+	top: 362px;
+}
+
+div.text-projectmanagement {
+	position: absolute;
+	top: 413px;
+	left: 316px;
+	width: 103px;
+	height: 38px;
+}
+
+div.icon-more {
+	content: url('../img/More Icon.png');
+	position: absolute;
+	width: 48px;
+	height:48px;
+	left: 228px;
+	top: 471px;
+}
+
+div.text-more {
+	position: absolute;
+	top: 525px;
+	left: 220px;
+	width: 62px;
+	height: 19px;
+
+}
+
+div.icon-timetracking {
+	content: url('../img/Time Tracking Icon.png');
+	position: absolute;
+	left: 219px;
+	top: 259px;
+	width: 64px;
+	height: 81px;
+}
+
+div.text-timetracking {
+	font-weight: bold;
+	font-size: 19px;
+	position: absolute;
+	top: 354px;
+	left: 200px;
+	width: 103px;
+	height: 46px;
+}
+
+div.allinone-outside {
+	content: url('../img/allinone-outside@2x.png');
+	width: 502px;
+	height: 619px;
+}
+
 
 div.topImg {
-	position:absolute;
+	position: absolute;
 	top: 0px;
 	left: 0px;
 	width: 100%;
