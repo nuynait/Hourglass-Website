@@ -44,6 +44,31 @@ div.text-hourglass {
 	color: #174C4F;
 }
 
+div.tranglediv {
+	position: absolute;
+	right: 0px;
+	width: 0;
+	height: 0;
+	border-top: 170px solid #FF9666;
+	border-left: 170px solid transparent;
+}
+
+/* Rotate 45 degree */
+#text-alpha {
+	position: absolute;
+	top: 40px;
+	right: 20px;
+	font-size: 36px;
+	color: #207178;
+	-webkit-transform: rotate(45deg); 
+    -moz-transform: rotate(45deg); 
+    -ms-transform: rotate(45deg); 
+    -o-transform: rotate(45deg); 
+    transform: rotate(45deg);
+    float: left;
+    vertical-align:top;
+}
+
 
 div.topImg {
 	position:absolute;
