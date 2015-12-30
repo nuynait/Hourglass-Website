@@ -278,3 +278,54 @@ div.icon-googleplus {
 	margin-left: 20px;
 	float: left;
 }
+
+div.comingSoon-section {
+	width: 317px;
+	height: 122px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 120px;
+}
+
+div.text-comingsoon {
+	color: #174C4F;
+	font-size: 48px;
+	font-family: "Courier";
+	font-weight: bold;
+	width: 317px;
+	height: 58px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div.comingSoon-deviceIcon {
+	width: 174px;
+	height: 48px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 16px;
+}
+
+
+div.icon-computer {
+	content: url('../img/Computer Icon.png');
+	width: 54px;
+	height: 47px;
+	float: left;
+}
+
+div.icon-phone {
+	content: url('../img/Phone Icon.png');
+	width: 26px;
+	height: 47px;
+	float: left;
+	margin-left: 25px;
+}
+
+div.icon-tablet {
+	content: url('../img/Tablet Icon.png');
+	width: 38px;
+	height: 47px;
+	margin-left: 30px;
+	float: left;
+}
