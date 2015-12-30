@@ -226,3 +226,55 @@ div.topImg {
 	opacity: 0.2;
 }
 
+div.spreadWorld-section {
+	width: 394px;
+	height: 77px;
+	margin-top: 85px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div.text-helpSpreadWorld {
+	color: #174C4F;
+	font-size: 18px;
+	font-family: "Helvetica";
+	font-weight:lighter;
+	width: 395px;
+	height: 22px;
+}
+
+div.spreadWorld-socialMediaIcon {
+	width: 173px;
+	height: 45px;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+/* 	float: left
+	make div blocks side by side */ 
+
+div.icon-facebook {
+	content: url('../img/Facebook Icon.png');
+	width: 44px;
+	height: 44px;
+	float: left;
+}
+
+div.icon-twitter {
+	content: url('../img/Twitter Icon.png');
+	width: 47px;
+	height: 39px;
+	margin-left: 20px;
+	margin-top: 3px;
+	float: left;
+}
+
+div.icon-googleplus {
+	content: url('../img/Google Plus Icon.png');
+	width: 42px;
+	height: 45px;
+	margin-left: 20px;
+	float: left;
+}
