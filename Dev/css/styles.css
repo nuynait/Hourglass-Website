@@ -7,7 +7,6 @@ div.navbarBackground {
 	position: relative;
 	background-color: #F6E6AC; 
 	height: 247px;
-	z-index: 950;
 }
 
 div.logo {
@@ -222,7 +221,6 @@ div.topImg {
 	width: 100%;
 	content: url('../img/top-background-img.jpg');
 	height: 789px;
-	z-index: 1000;
 	opacity: 0.2;
 }
 
