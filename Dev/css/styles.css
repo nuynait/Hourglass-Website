@@ -355,7 +355,29 @@ div.emailSubscription-button {
 	margin-top: 21px;
 }
 
-.btn-custom-subscribe {
+button.btn-custom-subscribe {
 	width: 189px;
 	height: 36px;
 }
+
+div.subscriptionError-section {
+	width: 465px;
+	height: 121px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div.subscriptionError-description {
+	font-family: "Helvetica";
+	font-weight: lighter;
+	font-size: 14px;
+}
+
+div.subscriptionError-iconset {
+	margin-top: 26px;
+	width: 111px;
+	height: 44px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
