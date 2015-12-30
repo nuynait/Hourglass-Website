@@ -329,3 +329,33 @@ div.icon-tablet {
 	margin-left: 30px;
 	float: left;
 }
+
+div.emailSubscription-section {
+	width: 662px;
+	height: 79px;
+	margin-top: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	/* border on top and bottom */
+	border-top:1px solid #207178;
+	border-bottom: 1px solid #207178;
+}
+
+div.emailSubscription-inputForm {
+	width: 425px;
+	height: 34px;
+	padding-left: 15px;
+	padding-top: 23px;
+	float: left;
+}
+
+div.emailSubscription-button {
+	float: left;
+	margin-left: 16px;
+	margin-top: 21px;
+}
+
+.btn-custom-subscribe {
+	width: 189px;
+	height: 36px;
+}
