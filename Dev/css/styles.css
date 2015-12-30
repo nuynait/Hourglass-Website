@@ -339,6 +339,8 @@ div.emailSubscription-section {
 	/* border on top and bottom */
 	border-top:1px solid #207178;
 	border-bottom: 1px solid #207178;
+
+	display: none;
 }
 
 div.emailSubscription-inputForm {
@@ -363,6 +365,7 @@ button.btn-custom-subscribe {
 div.subscriptionError-section {
 	width: 465px;
 	height: 121px;
+	margin-top: 119px;
 	margin-left: auto;
 	margin-right: auto;
 }
